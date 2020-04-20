@@ -4,6 +4,15 @@ As a coder in training, there are moments, which marks your life. Forever. 42sh 
 
 You already know a lot of shells and each has its own features, from the humble sh available on every UNIX distribution in the world to the complete and complex zsh, which many of you use without really knowing why. There are many other shells, such as bash, csh, tcsh, ksh, ash, etc. 42sh is your first real shell.
 
+Improving skills:
+
+> Organization
+
+> Unix
+
+> Group & interpersonal
+
+
 42sh is a complete command shell written according to the POSIX standard for Unix systems.
 
     - Type any command
